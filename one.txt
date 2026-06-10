@@ -5,3 +5,4 @@ print("hare krishna")
 print("simanchal")
 print("podal ramaprasad")
 print("BPUT")
+how to we use featch command
