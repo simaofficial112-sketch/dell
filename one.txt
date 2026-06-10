@@ -1,6 +1,6 @@
 Hare krishna Hare Krishna Krishna Krishna Hare Hare
 Hare Rama Hare Rama Rama Rama Hare Hare
-
+python is the best
 print("hare krishna")
 print("simanchal")
 print("podal ramaprasad")
